@@ -43,7 +43,8 @@ Protect command:
 [#] Pkick:[on/off] <- Protectkick
 [#] ! @tag <- Kick with tag
 
-[ S E L F B O T ]"""
+
+"""
 
 protect = {
     "kick":{}
