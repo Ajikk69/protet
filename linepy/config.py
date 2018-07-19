@@ -19,7 +19,7 @@ class Config(object):
     LINE_SQUARE_QUERY_PATH      = '/SQS1'
 
     CHANNEL_ID = {
-        'LINE_TIMELINE': '1341209950',
+        'LINE_TIMELINE': '1341209850',
         'LINE_WEBTOON': '1401600689',
         'LINE_TODAY': '1518712866',
         'LINE_STORE': '1376922440',
@@ -28,10 +28,10 @@ class Config(object):
     }
 
     APP_TYPE    = 'DESKTOPMAC'
-    APP_VER     = '5.7.0'
+    APP_VER     = '2.1.5'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'Mac_OS'
-    SYSTEM_VER  = '15.23.6'
+    SYSTEM_VER  = '11.2.5'
     IP_ADDR     = '8.8.8.8'
     EMAIL_REGEX = re.compile(r"[^@]+@[^@]+\.[^@]+")
 
